@@ -6,7 +6,7 @@ Used technologies were React with JavaScript, Axios, HTML and CSS (SCSS).
 
 ## Live site:
 
-App link: 
+App link: https://cheery-crumble-3db292.netlify.app/
 
 ## Setup guide:
 
