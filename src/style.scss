@@ -1,0 +1,138 @@
+#parent {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  position: absolute;
+
+  #book {
+    font-style: Arial;
+    font-size: 2rem;
+    color: black;
+    margin-left: 20rem;
+    margin-right: 12rem;
+
+    #new-book {
+      width: 12rem;
+      height: 9rem;
+      font-family: "Satisfy", cursive;
+      font-size: 2rem;
+      font-style: oblique;
+      color: darkslategray;
+      background-color: aliceblue;
+      border-color: black;
+      border-width: 0.2rem;
+      margin-top: 3rem;
+    }
+  }
+
+  #result {
+    margin-left: 5rem;
+    margin-top: 13rem;
+
+    #title {
+      font-family: "Zilla Slab", cursive;
+      font-size: 2rem;
+    }
+
+    #author {
+      font-family: "Zilla Slab", cursive;
+      font-size: 2rem;
+      margin-bottom: 1rem;
+    }
+
+    #description {
+      font-family: "Zilla Slab", cursive;
+      font-size: 1.2rem;
+
+      #currentElement0 {
+        margin-left: 10rem;
+      }
+
+      #currentElement1 {
+        margin-left: 8rem;
+      }
+
+      #currentElement2 {
+        margin-left: 6rem;
+      }
+
+      #currentElement3 {
+        margin-left: 4rem;
+      }
+
+      #currentElement4 {
+        margin-left: 2rem;
+        margin-bottom: 1rem;
+      }
+    }
+
+    #image {
+      width: 10rem;
+      float: left;
+    }
+
+    #twitter-share-button {
+      height: 7rem;
+      width: 14rem;
+      color: blue;
+      margin-left: 3rem;
+      margin-top: 18rem;
+      margin-right: 0.5rem;
+      font-family: "Times New Roman", Times, serif;
+
+      #share-link {
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+a:visited {
+  color: blue;
+}
+
+@media only screen and (max-width: 600px) {
+  #parent {
+    justify-content: center;
+    align-items: center;
+
+    #book {
+      align-items: center;
+      justify-content: center;
+      margin-top: 0rem;
+      margin-left: 8rem;
+      margin-right: auto;
+      margin-bottom: 29rem;
+    }
+
+    #result {
+      align-items: center;
+      justify-content: center;
+      margin-right: 2vh;
+      font-size: 2rem;
+      position: absolute;
+      margin-top: 35rem;
+
+      #title {
+        justify-content: center;
+      }
+
+      #author {
+        justify-content: center;
+        margin-right: 2vh;
+      }
+
+      #image {
+        justify-content: center;
+      }
+
+      #twitter-share-button {
+        justify-content: center;
+        width: 3rem;
+      }
+    }
+  }
+}

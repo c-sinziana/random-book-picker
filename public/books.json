@@ -1,0 +1,182 @@
+[
+  {
+    "author": "William Shakespeare",
+    "title": "Hamlet",
+    "imageUrl": "https://mcdn.elefant.ro/mnresize/1500/1500/images/75/253775/hamlet_1_fullsize.jpg",
+    "description": [
+      "love-hate mother and son relationship",
+      "the prince of Denmark",
+      "philosophy & religion",
+      "introspection",
+      "a painful love story"
+    ]
+  },
+  {
+    "author": "Jane Austen",
+    "title": "Emma",
+    "imageUrl": "https://mcdn.elefant.ro/mnresize/1500/1500/images/19/416719/emma-paperback_1_fullsize.jpg",
+    "description": [
+      "a mature love story",
+      "unexpected",
+      "dreamy but also profound",
+      "betrayal",
+      "death"
+    ]
+  },
+  {
+    "author": "George Orwell",
+    "title": "1984",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81StSOpmkjL.jpg",
+    "description": [
+      "a dystopian universe",
+      "control & fear",
+      "the psychology of the tyrant",
+      "lack of fredom",
+      "love in a totalitarian system"
+    ]
+  },
+  {
+    "author": "John Fowles",
+    "title": "The French Lieutenant's Woman",
+    "imageUrl": "https://i3.books-express.ro/be/9780099478331/the-french-lieutenant-s-woman.jpg",
+    "description": [
+      "multiple perspective",
+      "open final",
+      "lovestory",
+      "feminism",
+      "the inequalities of the world"
+    ]
+  },
+  {
+    "author": "Sherman Alexie",
+    "title": "Blasphemy",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51sNPyJqtSL.jpg",
+    "description": [
+      "native American stories",
+      "racism",
+      "pain&trouble",
+      "a different approach",
+      "political layer"
+    ]
+  },
+  {
+    "author": "John Keats",
+    "title": "So bright and delicate",
+    "imageUrl": "https://mcdn.elefant.ro/mnresize/1500/1500/images/33/1408033/so-bright-and-delicate-love-letters-and-poems-of-john-keats-paperback_1_fullsize.jpg",
+    "description": [
+      "romanticism",
+      "letters & poems",
+      "tumultuous love",
+      "lovestory",
+      "tragic death"
+    ]
+  },
+  {
+    "author": "Yukio Mishima",
+    "title": "The Temple of the Golden Pavilion",
+    "imageUrl": "https://i2.books-express.ro/be/9780099285670/the-temple-of-the-golden-pavilion.jpg",
+    "description": [
+      "lgbtq love story",
+      "Japanese traditions & society",
+      "2ndWW story",
+      "philosophy",
+      "pain"
+    ]
+  },
+  {
+    "author": "Banana Yoshimoto",
+    "title": "Kitchen",
+    "imageUrl": "https://cdn.dc5.ro/img-prod/40870140-0.jpeg",
+    "description": [
+      "soft stories",
+      "loneliness",
+      "coping with trauma",
+      "psychological approach",
+      "a love story"
+    ]
+  },
+  {
+    "author": "Ernest Hemingway",
+    "title": "The old man and the sea",
+    "imageUrl": "https://cdn4.libris.ro/img/pozeprod/59/1002/11/25760161.jpg",
+    "description": [
+      "tragic story",
+      "loneliness",
+      "the trauma of war",
+      "sadness",
+      "postmodernism"
+    ]
+  },
+  {
+    "author": "F. M. Dostoievsky",
+    "title": "The brothers Karamazov",
+    "imageUrl": "https://i.pinimg.com/originals/b8/78/34/b878344a20cf0f5e6d9e02e31ca6fea7.jpg",
+    "description": [
+      "psychological story",
+      "family portrait",
+      "mystery book",
+      "discovering the murderer",
+      "social fresco"
+    ]
+  },
+  {
+    "author": "Abe Kobo",
+    "title": "The woman in the dunes",
+    "imageUrl": "https://static.okian.ro/media/catalog/product/import/9780141188522.jpg",
+    "description": [
+      "Stockholm syndrome",
+      "solitude",
+      "madness",
+      "love & death",
+      "atypical story"
+    ]
+  },
+  {
+    "author": "Stephen King",
+    "title": "IT",
+    "imageUrl": "https://mcdn.elefant.ro/mnresize/1500/1500/is/product-images/cartero/547a2d43/2326/4a14/bd3e/5393df9f5a32/547a2d43-2326-4a14-bd3e-5393df9f5a32_1.jpeg",
+    "description": [
+      "horror",
+      "clown story",
+      "overcoming personal fear",
+      "mental images",
+      "fear & power"
+    ]
+  },
+  {
+    "author": "Sylvia Plath",
+    "title": "The Bell Jar",
+    "imageUrl": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/5712/9780571245642.jpg",
+    "description": [
+      "the life of a poet",
+      "plunging into one's thoughts",
+      "the book of becoming",
+      "struggle & motivation",
+      "depth"
+    ]
+  },
+  {
+    "author": "Stephenie Meyer",
+    "title": "Twilight",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/615ZIxEDozL.jpg",
+    "description": [
+      "vampire lovestory",
+      "teenagers",
+      "fantasy",
+      "double world universe",
+      "rebellious children"
+    ]
+  },
+  {
+    "author": "F.M. Dostoievsky",
+    "title": "The Idiot",
+    "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626318955l/12505._SY475_.jpg",
+    "description": [
+      "a naive protagonist",
+      "social fresco",
+      "the heritage problem",
+      "love triangle",
+      "aristocracy"
+    ]
+  }
+]
